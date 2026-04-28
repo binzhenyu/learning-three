@@ -27,4 +27,3 @@ const renderer = new THREE.WebGLRenderer({
 
 renderer.setSize(sizes.width, sizes.height);//设置渲染器的尺寸
 renderer.render(scene, camera);//渲染场景和相机
-
